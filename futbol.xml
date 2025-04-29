@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fútbol Internacional Hoy</title>
+    <link>https://www.futbolinternacionalhoy.com</link>
+    <description>Últimas noticias del futbol mundial: ligas europeas, selecciones y fichajes.</description>
+    <language>es-es</language>
+    <pubDate>Mon, 29 Apr 2025 12:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2025 12:00:00 +0000</lastBuildDate>
+    <generator>RSS Builder</generator>
+
+    <item>
+      <title>Real Madrid clasifica a la final de Champions</title>
+      <link>https://www.futbolinternacionalhoy.com/real-madrid-champions2025</link>
+      <description>Con una victoria 2-1 sobre el Bayern, el Real Madrid se mete en la final de la Liga de Campeones.</description>
+      <pubDate>Mon, 29 Apr 2025 10:00:00 +0000</pubDate>
+      <guid>https://www.futbolinternacionalhoy.com/real-madrid-champions2025</guid>
+    </item>
+
+    <item>
+      <title>Messi confirma su retiro de la selección argentina</title>
+      <link>https://www.futbolinternacionalhoy.com/messi-retiro</link>
+      <description>Lionel Messi anuncio oficialmente que se retira de la selección tras la Copa América 2025.</description>
+      <pubDate>Sun, 28 Apr 2025 19:30:00 +0000</pubDate>
+      <guid>https://www.futbolinternacionalhoy.com/messi-retiro</guid>
+    </item>
+
+    <item>
+      <title>Premier League: el Manchester City gana el titulo</title>
+      <link>https://www.futbolinternacionalhoy.com/man-city-campeon</link>
+      <description>Con un cierre espectacular, el City conquista su quinta Premier League en seis años.</description>
+      <pubDate>Sat, 27 Apr 2025 17:00:00 +0000</pubDate>
+      <guid>https://www.futbolinternacionalhoy.com/man-city-campeon</guid>
+    </item>
+
+  </channel>
+</rss>
+
